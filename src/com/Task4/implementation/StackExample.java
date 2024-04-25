@@ -35,7 +35,7 @@ public class StackExample {
 				System.out.println("Invalid Entry");
 				System.out.println();
 			}
-			break;
+			
 		}
 		
 		
