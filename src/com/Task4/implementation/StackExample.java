@@ -23,7 +23,6 @@ public class StackExample {
 			} else if(option==2) {
 				System.out.println("Before popping the element stack: ");
 				System.out.print(stack);
-				System.out.println();
 				se.popElement();
 				System.out.println("After popping the element in the stack: ");
 				System.out.print(stack);
@@ -35,7 +34,6 @@ public class StackExample {
 				System.out.println("Invalid Entry");
 				System.out.println();
 			}
-			
 		}
 		
 		
